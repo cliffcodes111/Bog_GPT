@@ -19,3 +19,6 @@ MODIS, Sentinel1, Sentinel2, and LANDSAT can be considered.
 For simpler analysis of predicted water table depth from a bog with data past 2019
 can be done with a simple multi-regression analysis.
 
+'Bog_gpt user interface'.py is most recent user interface for this project.
+'BritBog_train'.py is the training code.
+
