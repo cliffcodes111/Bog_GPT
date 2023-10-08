@@ -1,4 +1,4 @@
-# bogs_gpt
+# bog_gpt
 
 The goal of this code is to create a neural network model
 that predicts the water table depth of a British peat bog with satellite data.
