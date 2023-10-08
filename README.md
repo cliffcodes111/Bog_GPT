@@ -3,7 +3,7 @@
 The goal of this code is to create a neural network model
 that predicts the water table depth of a British peat bog with satellite data.
 
-The model is trained from existing data from a the Boltonfellend Bog in Carlisle.
+The model is trained from existing data from a the Bolton Fell Moss Bog in Carlisle.
 This bog was chosen due to it having a proportion of area undergoing restoration
 and a portion of it still experiencing damage from anthropogenic activities. 
 
