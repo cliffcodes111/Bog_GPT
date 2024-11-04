@@ -1,7 +1,7 @@
 # bog_gpt
 This code was created and submitted for the 2023 NASA Space Apps Challenge. The project won the Manchester division of space apps, and placed in the top 40 out of 5000+ projects for the global championships. All code in the repository was developed within a 48 hour time period (utilising minor code snippets -  >100 lines in total - from some of my previous projects).
 
-The goal of this code is to create a neural network model
+The goal of this code is to create a **neural network model**
 that predicts the water table depth of a British peat bog with satellite data.
 
 The model is trained from existing data from a the Bolton Fell Moss Bog in Carlisle.
